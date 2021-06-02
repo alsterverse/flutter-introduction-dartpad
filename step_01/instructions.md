@@ -31,4 +31,4 @@ Om skapar en `Center` widget innan vår text så lyckas vi med att placera texte
 
 Så här fint blev det!
 
-![alt text](https://my-workshop.app/example_dart/images/step_1.png)
+![alt text](https://github.com/the-crazy-kangaroos/flutter-introduction-dartpad/images/step_1.png)
