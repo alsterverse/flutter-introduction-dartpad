@@ -1,0 +1,6 @@
+name: TCK Flutter Introduction
+type: flutter
+steps:
+  - name: Steg 1
+    directory: step_01
+    has_solution: false
